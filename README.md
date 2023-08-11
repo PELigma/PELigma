@@ -1,12 +1,12 @@
-### PEninja
+# PEninja
 
-# About Me
+## About Me
 
 - A 13 Year Old Game Developer
 - Lives in New Jersey
 - I am very cool
 
-# What I know
+## What I know
 
 - HTML (100%)
 - CSS (100%)
