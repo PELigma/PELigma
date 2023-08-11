@@ -1,16 +1,18 @@
-### Hi there 👋
+### PEninja
 
-<!--
-**PELigma/PELigma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# About Me
 
-Here are some ideas to get you started:
+- A 13 Year Old Game Developer
+- Lives in New Jersey
+- I am very cool
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# What I know
+
+- HTML (100%)
+- CSS (100%)
+- SKRIPT (90%)
+- JAVA (72.7%)
+- JAVASCRIPT (16%)
+- PYTHON (3.2%)
+
+
