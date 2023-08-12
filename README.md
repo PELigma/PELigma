@@ -8,11 +8,12 @@
 
 ## What I know
 
-- HTML (100%)
-- CSS (100%)
-- SKRIPT (90%)
-- JAVA (72.7%)
-- JAVASCRIPT (16%)
-- PYTHON (3.2%)
+- HTML
+- CSS
+- BASIC
+- SKRIPT 
+- JAVA 
+- A BIT OF JAVASCRIPT 
+- VERY SMALL AMOUNT OF PYTHON 
 
 
